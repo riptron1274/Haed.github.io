@@ -1,1 +1,27 @@
+user_id	user_name	sex	age	height_cm	start_weight_kg	start_bodyfat_pct	training_age_yrs	tdee_kcal	goal_phase	diet_preference	preferred_split
+1	user_001	M	21	179.23	87.35	25.07	1.84	2566	cut	carnivore	PPL
+2	user_002	M	32	166.33	78.86	12.8	1.59	2087	cut	vegetarian	PPL
+3	user_003	M	28	173.39	76.8	24.63	3.58	2254	intense_cut	vegetarian	PPL
+4	user_004	M	26	179.73	68.82	25.64	8.56	2305	cut	none	BRO
+5	user_005	F	29	171.17	49.89	12.92	4.55	1600	intense_bulk	carnivore	PPL
+6	user_006	M	31	183.21	94.73	23.28	2.59	2758	maintain	none	PPL
+7	user_007	M	26	174.13	98.16	11.71	4.67	2992	bulk	vegetarian	BRO
+8	user_008	F	36	167.37	102.47	17.56	2.2	2859	maintain	vegetarian	PPL
+9	user_009	M	33	177.13	77.59	8	1.42	2483	intense_bulk	carnivore	UL
+10	user_010	F	31	173.11	65.09	26.2	5.74	1848	intense_cut	carnivore	PPL
+11	user_011	M	35	174.96	52.14	20.42	2.21	1616	bulk	none	UL
+12	user_012	M	22	186.83	83.78	8	0.85	2396	intense_bulk	none	UL
+13	user_013	M	26	179.11	83.58	9.82	5.29	2653	intense_bulk	none	PPL
+14	user_014	M	31	192.33	72.11	14.04	3.2	2143	maintain	vegetarian	PPL
+15	user_015	M	21	180.32	72.97	28.85	1.43	2194	intense_cut	none	UL
+16	user_016	M	29	186.15	64.71	19.29	3.52	2129	bulk	carnivore	BRO
+17	user_017	F	29	167.43	53.84	25.63	3.59	1600	intense_bulk	vegetarian	PPL
+18	user_018	M	20	181.6	72.3	23.51	5.32	2101	intense_cut	none	BRO
+19	user_019	M	26	171.72	73.33	12.29	2.85	2304	intense_cut	none	PPL
+20	user_020	M	26	196.04	91.51	12	0.86	2834	intense_cut	none	UL
+21	user_021	F	27	170.18	56.57	29.44	5.09	1600	cut	vegetarian	BRO
+22	user_022	F	31	177.34	64.77	18.34	5.11	1821	cut	none	BRO
+23	user_023	M	33	172.77	87.65	19.8	3.05	2785	intense_cut	none	BRO
+24	user_024	F	29	166.23	48.17	13.49	3.33	1600	intense_bulk	none	PPL
+25	user_025	M	25	177.56	73.28	15.66	6.12	2271	intense_bulk	none	PPL
 
