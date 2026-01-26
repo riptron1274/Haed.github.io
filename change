@@ -1,0 +1,7 @@
+projects/sales-dashboard/README.md
+projects/sales-dashboard/sql/queries.sql
+projects/sales-dashboard/python/analysis.py
+projects/sales-dashboard/data/sample.csv
+projects/sales-dashboard/images/.gitkeep
+projects/churn-analysis/README.md
+projects/churn-analysis/images/.gitkeep
