@@ -1,0 +1,421 @@
+exercise_id,exercise_name,muscle_group,base_rating
+1,Rickshaw Carry,Forearms,9.6
+2,Single-Leg Press,Quadriceps,9.6
+3,Landmine twist,Abdominals,9.5
+4,Weighted pull-up,Lats,9.5
+5,T-Bar Row with Handle,Middle Back,9.5
+6,Palms-down wrist curl over bench,Forearms,9.5
+7,Atlas Stones,Lower Back,9.5
+8,Dumbbell front raise to lateral raise,Shoulders,9.5
+9,Clean from Blocks,Quadriceps,9.5
+10,Incline Hammer Curls,Biceps,9.5
+11,Straight-bar wrist roll-up,Forearms,9.5
+12,Barbell glute bridge,Glutes,9.4
+13,Clean and press,Shoulders,9.4
+14,Triceps dip,Triceps,9.4
+15,Dumbbell farmer's walk,Forearms,9.4
+16,Palms-up wrist curl over bench,Forearms,9.4
+17,Barbell Full Squat,Quadriceps,9.4
+18,Barbell deficit deadlift,Lower Back,9.4
+19,Barbell Deadlift,Hamstrings,9.4
+20,Single-arm palm-in dumbbell shoulder press,Shoulders,9.4
+21,Romanian Deadlift With Dumbbells,Hamstrings,9.4
+22,Tire flip,Quadriceps,9.4
+23,Clean Deadlift,Hamstrings,9.4
+24,Elbow plank,Abdominals,9.3
+25,Bottoms Up,Abdominals,9.3
+26,Barbell back squat to box,Quadriceps,9.3
+27,Clean and jerk,Shoulders,9.3
+28,Single-arm kettlebell push-press,Shoulders,9.3
+29,Push-press,Quadriceps,9.3
+30,Suspended ab fall-out,Abdominals,9.3
+31,Military press,Shoulders,9.3
+32,Power snatch-,Quadriceps,9.3
+33,Sumo deadlift,Hamstrings,9.3
+34,Hang Clean,Quadriceps,9.3
+35,Dumbbell V-Sit Cross Jab,Abdominals,9.3
+36,Reverse Band Box Squat,Quadriceps,9.3
+37,Standing palms-in shoulder press,Shoulders,9.3
+38,Standing cable low-to-high twist,Abdominals,9.3
+39,Decline EZ-bar skullcrusher,Triceps,9.3
+40,Standing behind-the-back wrist curl,Forearms,9.3
+41,Seated finger curl,Forearms,9.3
+42,Wide-grip barbell curl,Biceps,9.3
+43,Dumbbell spell caster,Abdominals,9.3
+44,Dumbbell floor press,Triceps,9.3
+45,Lying Face Down Plate Neck Resistance,Neck,9.3
+46,Pullups,Lats,9.2
+47,Decline reverse crunch,Abdominals,9.2
+48,Dumbbell Bench Press,Chest,9.2
+49,Jumping rope,Quadriceps,9.2
+50,Seated barbell shoulder press,Shoulders,9.2
+51,EZ-bar spider curl,Biceps,9.2
+52,Smith machine shrug,Traps,9.2
+53,Smith Machine Calf Raise,Calves,9.2
+54,Romanian Deadlift from Deficit,Hamstrings,9.2
+55,Power Snatch,Hamstrings,9.2
+56,Pushups,Chest,9.2
+57,Barbell walking lunge,Quadriceps,9.2
+58,Front Squats With Two Kettlebells,Quadriceps,9.2
+59,Spider crawl,Abdominals,9.2
+60,Power Clean from Blocks,Hamstrings,9.2
+61,Single Leg Push-off,Quadriceps,9.2
+62,Hip Circles (Prone),Abductors,9.2
+63,Reverse-grip bent-over row,Middle Back,9.2
+64,Seated Two-Arm Palms-Up Low-Pulley Wrist Curl,Forearms,9.2
+65,Back extension,Lower Back,9.1
+66,Close-grip bench press,Chest,9.1
+67,Cocoons,Abdominals,9.1
+68,Cross-Body Crunch,Abdominals,9.1
+69,Dumbbell Flyes,Chest,9.1
+70,Hammer Curls,Biceps,9.1
+71,Incline dumbbell bench press,Chest,9.1
+72,Low-cable cross-over,Chest,9.1
+73,Single-arm high-cable side bend,Abdominals,9.1
+74,Seated Dumbbell Press,Shoulders,9.1
+75,Standing dumbbell shoulder press,Shoulders,9.1
+76,EZ-Bar Curl,Biceps,9.1
+77,Olympic Squat,Quadriceps,9.1
+78,Natural Glute Ham Raise,Hamstrings,9.1
+79,Axle Deadlift,Lower Back,9.1
+80,Zottman Curl,Biceps,9.1
+81,Glute ham raise-,Hamstrings,9.1
+82,Single-arm lateral raise,Shoulders,9.1
+83,Power Partials,Shoulders,9.1
+84,Leverage Shrug,Traps,9.1
+85,Cable V-bar push-down,Triceps,9.1
+86,Wrist Roller,Forearms,9.1
+87,Incline dumbbell reverse fly,Shoulders,9.1
+88,Stair climber,Quadriceps,9.1
+89,Elbow-to-knee crunch,Abdominals,9.1
+90,Kettlebell Pistol Squat,Quadriceps,9.1
+91,Overhead dumbbell front raise,Shoulders,9.1
+92,Biceps curl to shoulder press,Biceps,9.1
+93,Weighted bench dip,Triceps,9.1
+94,Barbell Hip Thrust,Glutes,9.1
+95,Forward lunge,Quadriceps,9.0
+96,Barbell Bench Press - Medium Grip,Chest,9.0
+97,Chest dip,Chest,9.0
+98,Seated dumbbell shoulder press,Shoulders,9.0
+99,Barbell Curl,Biceps,9.0
+100,EZ-Bar Skullcrusher,Triceps,9.0
+101,One-Arm Dumbbell Row,Middle Back,9.0
+102,Alternating standing shoulder press,Shoulders,9.0
+103,Concentration curl,Biceps,9.0
+104,Decline Crunch,Abdominals,9.0
+105,Decline Dumbbell Flyes,Chest,9.0
+106,Single-arm incline rear delt raise,Shoulders,9.0
+107,Alternating dumbbell front raise,Shoulders,9.0
+108,Hanging toes-to-bar,Abdominals,9.0
+109,Narrow-stance squat,Quadriceps,9.0
+110,Kneeling cable oblique crunch,Abdominals,9.0
+111,Reverse Grip Triceps Pushdown,Triceps,9.0
+112,Bear crawl sled drag,Quadriceps,9.0
+113,Rocky Pull-Ups/Pulldowns,Lats,9.0
+114,Snatch-Grip Behind-The-Neck Overhead Press,Shoulders,9.0
+115,Box Squat with Bands,Quadriceps,9.0
+116,Flexor Incline Dumbbell Curls,Biceps,9.0
+117,Seated One-Arm Dumbbell Palms-Up Wrist Curl,Forearms,9.0
+118,Thigh adductor,Adductors,9.0
+119,Machine Bicep Curl,Biceps,9.0
+120,Seated Palms-Down Barbell Wrist Curl,Forearms,9.0
+121,Car driver,Shoulders,9.0
+122,Alternating Deltoid Raise,Shoulders,9.0
+123,Hanging Oblique Knee Raise,Abdominals,9.0
+124,Bodyweight Flyes,Chest,9.0
+125,Standing Calf Raises,Calves,9.0
+126,Push-Ups - Close Triceps Position,Triceps,9.0
+127,One-Arm Long Bar Row,Middle Back,9.0
+128,Overhead cable curl,Biceps,9.0
+129,Single-dumbbell front raise,Shoulders,9.0
+130,Incline cable chest fly,Chest,9.0
+131,Single-leg depth squat,Quadriceps,9.0
+132,Dumbbell suitcase crunch,Abdominals,9.0
+133,Plate Twist,Abdominals,9.0
+134,Single-leg cable hip extension,Glutes,9.0
+135,Weighted Jump Squat,Quadriceps,9.0
+136,Squat with Chains,Quadriceps,9.0
+137,Gorilla Chin/Crunch,Abdominals,9.0
+138,Kneeling cable triceps extension,Triceps,9.0
+139,Kneeling Cable Crunch With Alternating Oblique Twists,Abdominals,8.9
+140,Bicycling,Quadriceps,8.9
+141,Arnold press,Shoulders,8.9
+142,Weighted Crunches,Abdominals,8.9
+143,Single-arm cable triceps extension,Triceps,8.9
+144,Barbell roll-out,Abdominals,8.9
+145,Kneeling cable crunch,Abdominals,8.9
+146,Exercise Ball Pull-In,Abdominals,8.9
+147,Hanging leg raise,Abdominals,8.9
+148,Barbell Ab Rollout - On Knees,Abdominals,8.9
+149,Barbell Squat,Quadriceps,8.9
+150,Decline barbell bench press,Chest,8.9
+151,Dumbbell Bicep Curl,Biceps,8.9
+152,Dumbbell Goblet Squat,Quadriceps,8.9
+153,Dumbbell squat,Quadriceps,8.9
+154,Barbell front squat,Quadriceps,8.9
+155,Close-grip pull-down,Lats,8.9
+156,Triceps Pushdown - Rope Attachment,Triceps,8.9
+157,Side-to-side box skip,Quadriceps,8.9
+158,Smith machine shoulder press,Shoulders,8.9
+159,Seated triceps press,Triceps,8.9
+160,Dumbbell Lying Supination,Forearms,8.9
+161,Pull-up,Lats,8.9
+162,Wide-grip bench press,Chest,8.9
+163,Close-grip EZ-bar curl,Biceps,8.9
+164,T-Bar Row,Middle Back,8.9
+165,Bent Over Two-Arm Long Bar Row,Middle Back,8.9
+166,Muscle Up,Lats,8.9
+167,Machine shoulder press,Shoulders,8.9
+168,Incline EZ-bar skullcrusher,Triceps,8.9
+169,Alternating sit-through with crunch,Middle Back,8.9
+170,Wide-Grip Decline Barbell Bench Press,Chest,8.9
+171,Rower,Middle Back,8.9
+172,Snatch Deadlift,Hamstrings,8.9
+173,Front Plate Raise,Shoulders,8.9
+174,Decline Close-Grip Bench To Skull Crusher,Triceps,8.9
+175,Lying Leg Curls,Hamstrings,8.9
+176,Cross-body hammer curl,Biceps,8.9
+177,Shotgun row,Lats,8.9
+178,Ab Roller,Abdominals,8.9
+179,Reverse-grip incline dumbbell bench press,Chest,8.9
+180,Leg Press,Quadriceps,8.8
+181,Stiff-Legged Dumbbell Deadlift,Hamstrings,8.8
+182,Cable Crossover,Chest,8.8
+183,Barbell Incline Bench Press Medium-Grip,Chest,8.8
+184,Incline Dumbbell Flyes,Chest,8.8
+185,Seated Cable Rows,Middle Back,8.8
+186,Tricep Dumbbell Kickback,Triceps,8.8
+187,Otis-Up,Abdominals,8.8
+188,Mountain climber,Abdominals,8.8
+189,Ab bicycle,Abdominals,8.8
+190,Barbell forward lunge,Quadriceps,8.8
+191,3/4 sit-up,Abdominals,8.8
+192,Exercise ball leg curl,Hamstrings,8.8
+193,Glute bridge,Glutes,8.8
+194,Close-Grip Front Lat Pulldown,Lats,8.8
+195,Dip Machine,Triceps,8.8
+196,Incline dumbbell row,Middle Back,8.8
+197,Dumbbell Lunges,Quadriceps,8.8
+198,Single-arm standing shoulder press,Shoulders,8.8
+199,Preacher Curl,Biceps,8.8
+200,Reverse crunch,Abdominals,8.8
+201,Standing Dumbbell Triceps Extension,Triceps,8.8
+202,Elliptical trainer,Quadriceps,8.8
+203,Bodyweight squat,Quadriceps,8.8
+204,Bent Over Two-Dumbbell Row With Palms In,Middle Back,8.8
+205,Hex-bar deadlift,Quadriceps,8.8
+206,Narrow-stance leg press,Quadriceps,8.8
+207,Single-leg glute bridge,Glutes,8.8
+208,Barbell Curls Lying Against An Incline,Biceps,8.8
+209,Standing Hip Circles,Abductors,8.8
+210,Clam,Abductors,8.8
+211,Narrow Stance Hack Squats,Quadriceps,8.8
+212,Seated Close-Grip Concentration Barbell Curl,Biceps,8.8
+213,Dumbbell Lying Pronation,Forearms,8.8
+214,Smith machine box squat,Quadriceps,8.8
+215,Drop Push,Chest,8.8
+216,Upside-down pull-up,Middle Back,8.8
+217,Reverse Barbell Preacher Curls,Biceps,8.8
+218,Close-grip EZ-bar bench press,Chest,8.8
+219,Incline Push-Up,Chest,8.8
+220,Hyperextensions With No Hyperextension Bench,Lower Back,8.8
+221,Dumbbell front raise,Shoulders,8.8
+222,Parallel Bar Dip,Triceps,8.8
+223,Stairmaster,Quadriceps,8.8
+224,Double Leg Butt Kick,Quadriceps,8.8
+225,Groiners,Adductors,8.8
+226,Neck Press,Chest,8.8
+227,Broad jump,Quadriceps,8.8
+228,Machine Squat,Quadriceps,8.8
+229,V-bar pull-up,Lats,8.8
+230,Ring dip,Triceps,8.8
+231,Standing One-Arm Cable Curl,Biceps,8.8
+232,Burpee,Quadriceps,8.8
+233,Double-arm triceps kick-back,Triceps,8.8
+234,Dumbbell reverse lunge,Quadriceps,8.7
+235,Seated Calf Raise,Calves,8.7
+236,Standing dumbbell shrug,Traps,8.7
+237,Calf Press On The Leg Press Machine,Calves,8.7
+238,Barbell step-up,Quadriceps,8.7
+239,Feet-elevated bench dip,Triceps,8.7
+240,Bent Over Barbell Row,Middle Back,8.7
+241,Crunches,Abdominals,8.7
+242,Dumbbell Alternate Bicep Curl,Biceps,8.7
+243,Bent-over dumbbell rear delt row,Shoulders,8.7
+244,External Rotation with Cable,Shoulders,8.7
+245,Handstand push-up,Shoulders,8.7
+246,Single-arm dumbbell preacher curl,Biceps,8.7
+247,Step-up with knee raise,Glutes,8.7
+248,Smith machine back squat,Quadriceps,8.7
+249,Incline dumbbell front raise,Shoulders,8.7
+250,Alternate Incline Dumbbell Curl,Biceps,8.7
+251,Standing dumbbell upright row,Traps,8.7
+252,Single-arm cable front raise,Shoulders,8.7
+253,Two-Arm Kettlebell Military Press,Shoulders,8.7
+254,Incline cable chest press,Chest,8.7
+255,Rope climb,Lats,8.7
+256,Trail Running/Walking,Quadriceps,8.7
+257,Standing Bradford press,Shoulders,8.7
+258,Neutral-grip dumbbell bench press,Chest,8.7
+259,Cable Chest Press,Chest,8.7
+260,Standing concentration curl,Biceps,8.7
+261,Wide-Grip Rear Pull-Up,Lats,8.7
+262,Kettlebell pass-through lunge,Hamstrings,8.7
+263,Hands-elevated push-up,Chest,8.7
+264,Deadlift with Bands,Lower Back,8.7
+265,Straight-arm rope pull-down,Lats,8.7
+266,Barbell Shoulder Press,Shoulders,8.7
+267,Power clean,Hamstrings,8.7
+268,Hang Snatch,Hamstrings,8.7
+269,Kettlebell sumo deadlift high pull,Traps,8.7
+270,Calf-Machine Shoulder Shrug,Traps,8.7
+271,Bench Press - Powerlifting,Triceps,8.7
+272,Rocking Standing Calf Raise,Calves,8.7
+273,Goblet Squat,Quadriceps,8.7
+274,Behind-the-head skullcrusher,Triceps,8.7
+275,Seated palms-up wrist curl,Forearms,8.7
+276,Reverse Cable Curl,Biceps,8.7
+277,Dumbbell side bend,Abdominals,8.6
+278,Lat pull-down,Lats,8.6
+279,Side Lateral Raise,Shoulders,8.6
+280,Alternating incline dumbbell biceps curl,Biceps,8.6
+281,Kettlebell One-Legged Deadlift,Hamstrings,8.6
+282,Alternate Hammer Curl,Biceps,8.6
+283,Decline Push-Up,Chest,8.6
+284,Captain's chair knee raise,Abdominals,8.6
+285,Triceps Pushdown,Triceps,8.6
+286,Low cable overhead triceps extension,Triceps,8.6
+287,Single-arm cable cross-over,Chest,8.6
+288,Seated dumbbell biceps curl,Biceps,8.6
+289,Battle ropes,Shoulders,8.6
+290,Dead bug reach,Abdominals,8.6
+291,Deadlift with Chains,Lower Back,8.6
+292,Rope Crunch,Abdominals,8.6
+293,Palms-Up Dumbbell Wrist Curl Over A Bench,Forearms,8.6
+294,Kettlebell thruster,Glutes,8.6
+295,Single-Arm Push-Up,Chest,8.6
+296,Band Hip Adductions,Adductors,8.6
+297,Single-arm kettlebell clean,Hamstrings,8.6
+298,Preacher Hammer Dumbbell Curl,Biceps,8.6
+299,Alternating Kettlebell Press,Shoulders,8.6
+300,Split Squat with Dumbbells,Quadriceps,8.6
+301,Standing One-Arm Dumbbell Curl Over Incline Bench,Biceps,8.6
+302,Standing Olympic Plate Hand Squeeze,Forearms,8.6
+303,Sledgehammer swing,Abdominals,8.6
+304,Kneeling Squat,Glutes,8.6
+305,Single-arm kettlebell snatch,Shoulders,8.6
+306,Close-grip barbell curl,Biceps,8.6
+307,Box jump,Hamstrings,8.6
+308,Standing cable crunch,Abdominals,8.6
+309,Leverage Incline Chest Press,Chest,8.6
+310,Standing barbell overhead triceps extension,Triceps,8.6
+311,Lying cable triceps extension,Triceps,8.6
+312,Kettlebell Turkish Get-Up (Squat style),Shoulders,8.6
+313,Crunch - Hands Overhead,Abdominals,8.6
+314,Cable Internal Rotation,Shoulders,8.6
+315,Leg Extensions,Quadriceps,8.5
+316,Close push-up to wide push-up,Chest,8.5
+317,Single-arm dumbbell triceps extension,Triceps,8.5
+318,Butterfly,Chest,8.5
+319,Decline dumbbell bench press,Chest,8.5
+320,V-up,Abdominals,8.5
+321,Seated face pull,Shoulders,8.5
+322,Barbell Bulgarian split squat,Quadriceps,8.5
+323,Reverse-grip lat pull-down,Lats,8.5
+324,Standing Biceps Cable Curl,Biceps,8.5
+325,Single-arm cable seated row,Middle Back,8.5
+326,Single-arm kettlebell row,Chest,8.5
+327,Scissors Jump,Quadriceps,8.5
+328,Wide Stance Stiff Legs,Hamstrings,8.5
+329,Rack Pull with Bands,Lower Back,8.5
+330,Drag curl,Biceps,8.5
+331,Hang Clean - Below the Knees,Quadriceps,8.5
+332,Decline oblique crunch,Abdominals,8.5
+333,Dumbbell external shoulder rotation,Shoulders,8.5
+334,Single-arm bent-over cable rear delt fly,Shoulders,8.5
+335,Clean,Hamstrings,8.5
+336,Single-arm incline lateral raise,Shoulders,8.5
+337,Decline bar press sit-up,Abdominals,8.5
+338,Barbell rear delt bent-over row,Shoulders,8.5
+339,Calf Press,Calves,8.5
+340,Kettlebell alternating renegade row,Middle Back,8.5
+341,Bosu Ball Cable Crunch With Side Bends,Abdominals,8.5
+342,Stomach Vacuum,Abdominals,8.5
+343,Hammer Grip Incline DB Bench Press,Chest,8.5
+344,Wide-grip hands-elevated push-up,Chest,8.5
+345,Decline Dumbbell Triceps Extension,Triceps,8.5
+346,Jumping jack-,Quadriceps,8.5
+347,Push-Ups With Feet On An Exercise Ball,Chest,8.5
+348,Seated cable shoulder press,Shoulders,8.5
+349,Barbell hack squat,Quadriceps,8.5
+350,Feet-elevated push-up,Chest,8.5
+351,Good Morning,Hamstrings,8.5
+352,Leverage Chest Press,Chest,8.5
+353,Gironda Sternum Chins,Lats,8.5
+354,Exercise ball crunch,Abdominals,8.4
+355,Seated rear delt fly,Shoulders,8.4
+356,Standing face pull,Shoulders,8.4
+357,Glute Ham Raise,Hamstrings,8.4
+358,Russian twist,Abdominals,8.4
+359,Seated Flat Bench Leg Pull-In,Abdominals,8.4
+360,Barbell shrug,Traps,8.4
+361,Standing cable rear delt row,Shoulders,8.4
+362,Flat Bench Lying Leg Raise,Abdominals,8.4
+363,Hack Squat,Quadriceps,8.4
+364,Dumbbell skullcrusher,Triceps,8.4
+365,Man-maker,Middle Back,8.4
+366,Pallof press,Abdominals,8.4
+367,Knees tucked crunch,Abdominals,8.4
+368,Straight-arm dumbbell pull-over,Chest,8.4
+369,Arms-crossed jump squat,Quadriceps,8.4
+370,Decline Smith Press,Chest,8.4
+371,Band Skull Crusher,Triceps,8.4
+372,Side Wrist Pull,Shoulders,8.4
+373,Isometric Wipers,Chest,8.4
+374,Skating,Quadriceps,8.4
+375,Cable cross-over,Chest,8.4
+376,Treadmill running,Quadriceps,8.4
+377,One Arm Pronated Dumbbell Triceps Extension,Triceps,8.4
+378,Single-arm kettlebell clean and jerk,Shoulders,8.4
+379,Side To Side Chins,Lats,8.4
+380,Incline Dumbbell Bench With Palms Facing In,Chest,8.4
+381,Seated palms-down wrist curl,Forearms,8.4
+382,Standing leg swing,Hamstrings,8.4
+383,Clock push-up,Chest,8.4
+384,Machine seated row,Lats,8.4
+385,Lying Face Up Plate Neck Resistance,Neck,8.4
+386,Weighted sissy squat,Quadriceps,8.4
+387,Jog In Place,Quadriceps,8.4
+388,Dumbbell Raise,Shoulders,8.4
+389,Palms-Down Dumbbell Wrist Curl Over A Bench,Forearms,8.4
+390,One Arm Supinated Dumbbell Triceps Extension,Triceps,8.4
+391,Stationary bike,Quadriceps,8.3
+392,Dumbbell bent-over row,Middle Back,8.3
+393,Barbell thruster,Quadriceps,8.3
+394,Flutter Kicks,Glutes,8.3
+395,Dumbbell sumo squat,Quadriceps,8.3
+396,Barbell upright row,Shoulders,8.3
+397,Superman,Lower Back,8.3
+398,Straight-Arm Pulldown,Lats,8.3
+399,Barbell stiff-legged deadlift,Hamstrings,8.3
+400,Standing One-Arm Dumbbell Triceps Extension,Triceps,8.3
+401,Smith machine bench press,Chest,8.3
+402,Seated Side Lateral Raise,Shoulders,8.3
+403,Dumbbell Lying Rear Lateral Raise,Shoulders,8.3
+404,Dumbbell preacher curl,Biceps,8.3
+405,Front Raise And Pullover,Chest,8.3
+406,Dumbbell seated box jump,Quadriceps,8.3
+407,Middle Back Shrug,Middle Back,8.3
+408,Incline face-down bar front raise,Shoulders,8.3
+409,Butt-Ups,Abdominals,8.3
+410,Band Good Morning (Pull Through),Hamstrings,8.3
+411,Bodyweight Reverse Lunge,Quadriceps,8.3
+412,Seated One-Arm Dumbbell Palms-Down Wrist Curl,Forearms,8.3
+413,Glute Kickback,Glutes,8.3
+414,Treadmill jogging,Quadriceps,8.3
+415,Plate Pinch,Forearms,8.3
+416,Yates Row Reverse Grip,Middle Back,8.3
+417,Linear Acceleration Wall Drill,Hamstrings,8.3
+418,Reverse-grip bench press,Triceps,8.3
+419,Leverage Decline Chest Press,Chest,8.3
+420,Chain Handle Extension,Triceps,8.3
