@@ -17,9 +17,9 @@ and dashboarding using Python and Tableau.
 - Built interactive dashboards with **30 / 90 / 180-day analysis windows**
 - Focused on coaching, performance tracking, and decision support
 
-🔗 **Dashboards:** [Nutrition Dashboard](https://public.tableau.com/views/NutritionDashboard_17702078926330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-                    [User Progress Dashboard](https://public.tableau.com/views/UserProgressDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-                    [Training Analytics Dashboard](https://public.tableau.com/views/UserTrainingDashboard_17702076139490/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+🔗 **Dashboards:** 1.[Nutrition Dashboard](https://public.tableau.com/views/NutritionDashboard_17702078926330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+                    2.[User Progress Dashboard](https://public.tableau.com/views/UserProgressDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+                    3.[Training Analytics Dashboard](https://public.tableau.com/views/UserTrainingDashboard_17702076139490/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 📁 **Code & Documentation:** [View on GitHub](Projects/_Nutrain (Original))
 
 ---
