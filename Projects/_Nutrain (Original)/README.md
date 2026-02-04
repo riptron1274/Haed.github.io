@@ -2,6 +2,7 @@ This project uses synthetic but behaviorally realistic data generated in Python 
 
 
 Dashboards included:
+
 • Nutrition adherence & macro tracking
 • User progress (bodyfat, weight, waist)
 • Training volume & effectiveness
