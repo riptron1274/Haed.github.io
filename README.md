@@ -17,7 +17,9 @@ and dashboarding using Python and Tableau.
 - Built interactive dashboards with **30 / 90 / 180-day analysis windows**
 - Focused on coaching, performance tracking, and decision support
 
-🔗 **Dashboards:** [View in Tableau](https://public.tableau.com/views/NutritionDashboard_17702078926330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+🔗 **Dashboards:** [View in Tableau](https://public.tableau.com/views/NutritionDashboard_17702078926330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+                    [View in Tableau](https://public.tableau.com/views/UserProgressDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+                    [View in Tableau](https://public.tableau.com/views/UserTrainingDashboard_17702076139490/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 📁 **Code & Documentation:** [View on GitHub](Projects/_Nutrain (Original))
 
 ---
@@ -61,7 +63,7 @@ and dashboarding using Python and Tableau.
 - Built interactive dashboards to compare markets and identify trends
 - Translated data insights into actionable business conclusions
 
-🔗 **Dashboard & Code:** [View Project](Projects/Airbnb)
+🔗 **Dashboard & Code:** [View Project](https://public.tableau.com/views/BuyandRentHomeinAirbnb/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
