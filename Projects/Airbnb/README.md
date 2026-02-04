@@ -1,4 +1,3 @@
-## Dashboards
+## Dashboard
 
-### Nutrition Dashboard
-![Nutrition Dashboard](image/Airbnb_Buy_Rent_Dashboard.png)
+![Airbnb Dashboard](Projects/Airbnb/Image)
