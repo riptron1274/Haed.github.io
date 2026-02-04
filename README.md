@@ -81,7 +81,7 @@ and dashboarding using Python and Tableau.
 
 - **Email:** h.tavakkoli1994@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/htmoghaddam/  
-- **GitHub Pages Portfolio:** https://haed.github.io
+- **GitHub Pages Portfolio:** https://github.com/riptron1274/Haed.github.io
 
 ---
 
