@@ -35,7 +35,7 @@ and dashboarding using Python and Tableau.
 - Performed exploratory analysis on layoffs by company, industry, country, and time
 - Created rolling monthly totals and top-N company rankings per year
 
-🔗 **Project:** [View on GitHub](Projects/Layoffs Project)
+🔗 **Project:** [View on GitHub](https://github.com/riptron1274/Haed.github.io/tree/3b6aec3755fc48e2d41f3524121d50da3ec8ad15/Projects/Layoffs%20Project)
 
 ---
 
@@ -50,7 +50,7 @@ and dashboarding using Python and Tableau.
 - Implemented CTEs, temporary tables, stored procedures, and triggers
 - Demonstrated advanced SQL features including events and automation
 
-🔗 **Project:** [View on GitHub](Projects/Parks and Rec)
+🔗 **Project:** [View on GitHub](https://github.com/riptron1274/Haed.github.io/tree/3b6aec3755fc48e2d41f3524121d50da3ec8ad15/Projects/Parks%20and%20Rec)
 
 ---
 
