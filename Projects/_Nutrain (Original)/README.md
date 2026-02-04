@@ -9,10 +9,10 @@ Dashboards included:
 ## Dashboards
 
 ### Nutrition Dashboard
-![Nutrition Dashboard](images/nutrition_dashboard.png)
+![Nutrition Dashboard](Images/nutrition_dashboard.png)
 
 ### User Progress Dashboard
-![User Progress Dashboard](images/user_progress_dashboard.png)
+![User Progress Dashboard](Images/user_progress_dashboard.png)
 
 ### Training Analytics Dashboard
-![Training Analytics Dashboard](images/training_dashboard.png)
+![Training Analytics Dashboard](Images/training_dashboard.png)
